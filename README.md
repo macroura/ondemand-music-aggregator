@@ -9,8 +9,13 @@ Web app that aggregates Spotify and YouTube music metadata into unified playlist
 - Youtube
 - (Potentially Apple Music)
 
-### Features
-- Metadata aggregation
-- Playlist creation
-- Playback control
-- AI generated recommendations 
+### Included Features
+- Metadata aggregation only
+- Playlist creation using external links
+- Unified Track model
+
+### Explicitly Out of Scope
+- Audio playback
+- Playback controls
+- AI-generated recommendations
+- Additional music platforms (e.g., Apple Music)
