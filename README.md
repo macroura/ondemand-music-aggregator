@@ -4,7 +4,7 @@ Web app that aggregates Spotify and YouTube music metadata into unified playlist
 
 ## Project Scope (Week 1 Lock)
 
-#Supported Platforms
+### Supported Platforms
 - Spotify
 - Youtube
 - (Potentially Apple Music)
