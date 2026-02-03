@@ -7,6 +7,13 @@ app = FastAPI()
 def root():
     return {"Hello": "World"}
 
+@app.get("/health")
+def health():
+    return {
+        "status": "ok",
+        "service": "backend",
+    }
+
 tracks = {
     "1": track_instance(
         id="1",
