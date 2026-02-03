@@ -2,10 +2,9 @@
 Web app that aggregates Spotify and YouTube music metadata into unified playlists.
 
 ## Month 5 Project Scope
-
 ### What the system does (If User has the supported platforms: Spotify & YouTube):
   - Create an account, with the ability to log in and log out
-  - Connect Spotify and/or YouTube account-
+  - Connect Spotify and/or YouTube account
   - Read user’s music meta data from those platforms, which includes:
       * Song Title
       * Artist Name (or YouTube channel)
